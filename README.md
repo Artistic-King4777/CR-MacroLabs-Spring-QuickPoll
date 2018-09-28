@@ -649,3 +649,4 @@ Size.poll.options=Options must be greater than {2} and less than {1}
 * Modify respective `Controller` methods to handle `Pageable` arguments.
 * Send a `GET` request to `http://localhost:8080/polls?page=0&size=2` via Postman.
 * Ensure the response is a `JSON` object with pagination-specific information.
+# CR-MacroLabs-Spring-QuickPoll
